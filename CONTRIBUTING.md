@@ -1,4 +1,4 @@
-# ef-mandate-localize-jp へのコントリビュート
+# ef-mandate-localize へのコントリビュート
 
 このリポジトリは、Ethereum Foundation Mandate を日本語化するためのものです。翻訳の修正、補足、解釈、質問、論点整理などの形で貢献できます。
 
@@ -104,7 +104,7 @@ Issue や PR には、できれば次を含めてください。
 
 ---
 
-# Contributing to ef-mandate-localize-jp
+# Contributing to ef-mandate-localize
 
 This repository localizes the Ethereum Foundation Mandate into Japanese. Contributions are welcome in the form of translation edits, clarifications, commentary, questions, and discussion notes.
 

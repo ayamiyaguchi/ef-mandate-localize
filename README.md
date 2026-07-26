@@ -1,4 +1,4 @@
-# ef-mandate-localize-jp
+# ef-mandate-localize
 
 Japanese localization of the [EF Mandate PDF](https://ethereum.foundation/ef-mandate.pdf).
 
